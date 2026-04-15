@@ -29,7 +29,7 @@ By using Security ExChecker, you consent to the storage of your GitHub API key o
 ###  5. Contact & Support
 If you have questions regarding this policy or the extension's data handling, please contact the developer:
 *   **Email:** [sagishavit1001@gmail.com](mailto:sagishavit1001@gmail.com)
-*   **GitHub:** [Project Repository](https://github.com/sagishavit/Github-Security-ExChecker)
+*   **GitHub:** [Project Repository](https://github.com/SagiStack/Git-Security-ExChecker)
 
 ---
 *Developed with a focus on transparency and open-source integrity.*
